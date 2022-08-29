@@ -3,12 +3,12 @@
 "picosh" (pico shell) is a very basic Unix shell written in C.
 
 ## Setting up
-Using the makefile:
+Use the makefile:
 
 ```bash
 make
 ```
-Compiling using gcc:
+Or compile using gcc:
 ```bash
 gcc picosh.c -o picosh
 ```
