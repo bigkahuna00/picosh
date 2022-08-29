@@ -2,7 +2,14 @@
 
 "picosh" (pico shell) is a very basic Unix shell written in C.
 
-## Setting up
+## Installation
+
+Clone the repo:
+
+```bash
+git clone https://github.com/bigkahuna00/picosh
+```
+
 Use the makefile:
 
 ```bash
