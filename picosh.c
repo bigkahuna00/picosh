@@ -28,7 +28,6 @@ int main(int argc, char* argv[])
 	pid_t pid;
 
 	printf("picosh v0.1 (29.08.2022)\n");
-	printf("Author: bigkahuna\n\n");
 
 	while(1)
 	{
