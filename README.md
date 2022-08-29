@@ -27,4 +27,4 @@ gcc picosh.c -o picosh
 ```
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/bigkahuna00/picosh/blob/main/LICENSE.md)
