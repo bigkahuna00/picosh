@@ -25,6 +25,8 @@ gcc picosh.c -o picosh
 ```bash
 ./picosh
 ```
+## Screenshot
+![Screenshot](https://i.imgur.com/pISiw5Y.png)
 
 ## License
 [MIT](https://github.com/bigkahuna00/picosh/blob/main/LICENSE.md)
