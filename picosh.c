@@ -78,6 +78,9 @@ void execute(char** arguments)
 		//Wait until the child process terminates
 		wait(0);
 	}
+
+	//Free the allocated memory
+	free(arguments);
 }
 
 int main(int argc, char* argv[])
